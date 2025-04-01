@@ -196,7 +196,7 @@
             </spacer>
            </item>
            <item>
-            <widget class="QListWidget" name="listWidget_6">
+            <widget class="QListWidget" name="_available_overlays_list">
              <property name="sizePolicy">
               <sizepolicy hsizetype="MinimumExpanding" vsizetype="Expanding">
                <horstretch>0</horstretch>
