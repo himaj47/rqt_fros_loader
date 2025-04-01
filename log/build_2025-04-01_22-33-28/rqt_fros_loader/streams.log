@@ -1,0 +1,51 @@
+[0.994s] Invoking command in '/home/himaj/rqt_fros_loader': PYTHONPATH=/home/himaj/rqt_fros_loader/build/rqt_fros_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rqt_fros_loader build --build-base /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build install --record /home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log --single-version-externally-managed install_data
+[1.347s] running egg_info
+[1.347s] creating build/rqt_fros_loader/rqt_fros_loader.egg-info
+[1.347s] writing build/rqt_fros_loader/rqt_fros_loader.egg-info/PKG-INFO
+[1.348s] writing dependency_links to build/rqt_fros_loader/rqt_fros_loader.egg-info/dependency_links.txt
+[1.348s] writing entry points to build/rqt_fros_loader/rqt_fros_loader.egg-info/entry_points.txt
+[1.348s] writing requirements to build/rqt_fros_loader/rqt_fros_loader.egg-info/requires.txt
+[1.348s] writing top-level names to build/rqt_fros_loader/rqt_fros_loader.egg-info/top_level.txt
+[1.357s] writing manifest file 'build/rqt_fros_loader/rqt_fros_loader.egg-info/SOURCES.txt'
+[1.359s] reading manifest file 'build/rqt_fros_loader/rqt_fros_loader.egg-info/SOURCES.txt'
+[1.359s] writing manifest file 'build/rqt_fros_loader/rqt_fros_loader.egg-info/SOURCES.txt'
+[1.360s] running build
+[1.360s] running build_py
+[1.360s] creating /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build
+[1.360s] creating /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib
+[1.360s] creating /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.360s] copying rqt_fros_loader/logging.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.360s] copying rqt_fros_loader/fros_loader_plugin.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.360s] copying rqt_fros_loader/main.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.360s] copying rqt_fros_loader/loader_utils.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.360s] copying rqt_fros_loader/__init__.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.361s] copying rqt_fros_loader/loader_widget.py -> /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader
+[1.361s] running install
+[1.361s] running install_lib
+[1.362s] creating /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/logging.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/fros_loader_plugin.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/main.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/loader_utils.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/__init__.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.362s] copying /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build/lib/rqt_fros_loader/loader_widget.py -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader
+[1.363s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/logging.py to logging.cpython-310.pyc
+[1.364s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/fros_loader_plugin.py to fros_loader_plugin.cpython-310.pyc
+[1.364s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/main.py to main.cpython-310.pyc
+[1.365s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/loader_utils.py to loader_utils.cpython-310.pyc
+[1.366s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/__init__.py to __init__.cpython-310.pyc
+[1.366s] byte-compiling /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader/loader_widget.py to loader_widget.cpython-310.pyc
+[1.366s] running install_data
+[1.366s] creating /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/ament_index
+[1.367s] creating /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/ament_index/resource_index
+[1.367s] creating /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/ament_index/resource_index/packages
+[1.367s] copying resource/rqt_fros_loader -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/ament_index/resource_index/packages
+[1.367s] copying package.xml -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/rqt_fros_loader
+[1.367s] creating /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/rqt_fros_loader/resource
+[1.367s] copying resource/fros_loader_widget.ui -> /home/himaj/rqt_fros_loader/install/rqt_fros_loader/share/rqt_fros_loader/resource
+[1.367s] running install_egg_info
+[1.369s] Copying build/rqt_fros_loader/rqt_fros_loader.egg-info to /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader-0.0.0-py3.10.egg-info
+[1.370s] running install_scripts
+[1.392s] Installing rqt_fros_loader script to /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/rqt_fros_loader
+[1.392s] writing list of installed files to '/home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log'
+[1.415s] Invoked command in '/home/himaj/rqt_fros_loader' returned '0': PYTHONPATH=/home/himaj/rqt_fros_loader/build/rqt_fros_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rqt_fros_loader build --build-base /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build install --record /home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log --single-version-externally-managed install_data

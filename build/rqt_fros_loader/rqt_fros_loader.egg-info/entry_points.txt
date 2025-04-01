@@ -1,0 +1,3 @@
+[console_scripts]
+rqt_fros_loader = rqt_fros_loader.main:main
+

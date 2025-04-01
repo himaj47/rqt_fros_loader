@@ -1,0 +1,21 @@
+[0.941s] Invoking command in '/home/himaj/rqt_fros_loader': PYTHONPATH=/home/himaj/rqt_fros_loader/build/rqt_fros_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rqt_fros_loader build --build-base /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build install --record /home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log --single-version-externally-managed install_data
+[1.300s] running egg_info
+[1.301s] writing build/rqt_fros_loader/rqt_fros_loader.egg-info/PKG-INFO
+[1.301s] writing dependency_links to build/rqt_fros_loader/rqt_fros_loader.egg-info/dependency_links.txt
+[1.301s] writing entry points to build/rqt_fros_loader/rqt_fros_loader.egg-info/entry_points.txt
+[1.301s] writing requirements to build/rqt_fros_loader/rqt_fros_loader.egg-info/requires.txt
+[1.301s] writing top-level names to build/rqt_fros_loader/rqt_fros_loader.egg-info/top_level.txt
+[1.305s] reading manifest file 'build/rqt_fros_loader/rqt_fros_loader.egg-info/SOURCES.txt'
+[1.306s] writing manifest file 'build/rqt_fros_loader/rqt_fros_loader.egg-info/SOURCES.txt'
+[1.306s] running build
+[1.306s] running build_py
+[1.306s] running install
+[1.307s] running install_lib
+[1.309s] running install_data
+[1.309s] running install_egg_info
+[1.311s] removing '/home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader-0.0.0-py3.10.egg-info' (and everything under it)
+[1.311s] Copying build/rqt_fros_loader/rqt_fros_loader.egg-info to /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages/rqt_fros_loader-0.0.0-py3.10.egg-info
+[1.313s] running install_scripts
+[1.336s] Installing rqt_fros_loader script to /home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/rqt_fros_loader
+[1.336s] writing list of installed files to '/home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log'
+[1.362s] Invoked command in '/home/himaj/rqt_fros_loader' returned '0': PYTHONPATH=/home/himaj/rqt_fros_loader/build/rqt_fros_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/himaj/rqt_fros_loader/install/rqt_fros_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/rqt_fros_loader build --build-base /home/himaj/rqt_fros_loader/build/rqt_fros_loader/build install --record /home/himaj/rqt_fros_loader/build/rqt_fros_loader/install.log --single-version-externally-managed install_data

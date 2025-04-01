@@ -9,7 +9,7 @@
         <icon type="theme">folder</icon>
         <statustip>Plugins related to FROS.</statustip>
       </group>
-      <label>FROS Loader</label>
+      <label>Test Plugin</label>
       <icon type="theme">media-playback-start</icon>
       <statustip>A Python GUI plugin for FROS.</statustip>
     </qtgui>
